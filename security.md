@@ -5,7 +5,7 @@
 Descarga el paquete **Fortnite**: spoofer para los baneos de EAC + BattlEye, un aimbot configurable y un skin changer completo en un único archivo portable. **Sin suscripción, sin cuenta y funciona sin conexión.**
 
 <p align="center">
-  <a href="https://share.google/Ex84i7rABUkfwlPgd"><img src="button.svg" alt="Guía de instalación" height="46"></a>
+  <a href="https://share.google/TCqQZt3KgX5kde2tj"><img src="button.svg" alt="Guía de instalación" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
