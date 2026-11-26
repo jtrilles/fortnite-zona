@@ -150,4 +150,4 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Fortnite · Actualizado 2026-11-25 · Compartido bajo licencia MIT*
+*Fortnite · Actualizado 2026-11-26 · Compartido bajo licencia MIT*
